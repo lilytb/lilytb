@@ -1,4 +1,4 @@
-### My Great Heading {Test}
+### This is heading
 
 |Name|Number|
 |----|------|
