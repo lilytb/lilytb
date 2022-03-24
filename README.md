@@ -8,9 +8,9 @@
 
 ~~The world is flat.~~
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media 
+- [x] Kare Kare
+- [x] Cupcake
+- [x] Sinigang
 
 
 
