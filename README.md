@@ -8,9 +8,9 @@
 
 ~~The world is flat.~~
 
-- [x] Kare Kare
-- [x] Cupcake
-- [x] Sinigang
+[x] Kare Kare
+[x] Cupcake
+[x] Sinigang
 
 
 
