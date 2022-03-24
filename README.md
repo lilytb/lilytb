@@ -4,15 +4,16 @@
 |---|----|------|--------|
 |1  |Infra Hiring|Sourcing|29th April|
 
-[^1]: This is the footnote. 
 
-~~The world is flat.~~
+- [ ] Meeting with Service Desk Shift Managers
+- [ ] SharePoint Creation
 
-- [x] Kare Kare
-- [x] Cupcake
-- [x] Sinigang
-
-⛺ 🔥 ⛵
-
+```
+{
+  "FirstMeeting": "Techzone",
+  "SecondMeeting": "PBCom",
+  "Average": 25
+}
+```
 
 
