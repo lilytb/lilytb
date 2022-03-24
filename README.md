@@ -6,4 +6,7 @@
 
 [^1]: This is the footnote. 
 
+term
+: definition 
+
 
