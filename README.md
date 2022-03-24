@@ -6,6 +6,8 @@
 
 [^1]: This is the footnote. 
 
+~~The world is flat.~~
+
 
 
 
