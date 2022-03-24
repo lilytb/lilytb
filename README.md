@@ -2,7 +2,7 @@
 |----|------|
 |Header|Gate|
 
- 	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
