@@ -1,7 +1,6 @@
-'''
 |Name|Number|
 |----|------|
 |Header|Gate|
-'''
+
 
 
